@@ -1,0 +1,6 @@
+5
+0 output1.txt 3 1 1 2 2 3 3
+0 output1.txt 2 2 5 -2 7
+1 output2.txt 1 0 5
+1 output2.txt 2 3 4 5 6
+0 output2.txt 1 100 3
